@@ -1,0 +1,4 @@
+W = shoot
+A = left
+D = right
+R = rain
